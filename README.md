@@ -29,7 +29,7 @@ So feel free to check out my profile.
 <br />
 
 ---
-## 📺 Content Creator (now it put my favorites game creators i found)
+## 📺 Content Creator
 Check out my latest videos and subscribe!
 
 [![Subscribe to my YouTube](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@Merlin_Codemancer)
@@ -39,7 +39,7 @@ Check out my latest videos and subscribe!
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos  (now it put my favorites game creators i found)
 
 
 | [![Video Title 1](https://ytcards.demolab.com/?id=6BON0tUuYBg&title=Your+Video+Title&lang=en&timestamp=TIME&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=DURATION "Video 1")](https://www.youtube.com/watch?v=VIDEO_ID_1) | [![Video Title 2](https://ytcards.demolab.com/?id=2DSrk7WX7ho&title=Your+Video+Title&lang=en&timestamp=TIME&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=DURATION "Video 2")](https://www.youtube.com/watch?v=VIDEO_ID_2) | [![Video Title 3](https://ytcards.demolab.com/?id=Htm6wnKPqKw&title=Your+Video+Title&lang=en&timestamp=TIME&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=DURATION "Video 3")](https://www.youtube.com/watch?v=VIDEO_ID_3) |

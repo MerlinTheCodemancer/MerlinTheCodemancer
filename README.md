@@ -29,7 +29,7 @@ So feel free to check out my profile.
 <br />
 
 ---
-## 📺 Content Creator
+## 📺 Content Creator (now it put my favorites game creators i found)
 Check out my latest videos and subscribe!
 
 [![Subscribe to my YouTube](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@Merlin_Codemancer)

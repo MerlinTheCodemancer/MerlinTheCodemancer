@@ -5,7 +5,7 @@
 
 **`Game Developer / Fullstack Dev / Ai Enthusiast `**
 
-I'm a wizard who's been around since ancient times, combining the skills I develop for game development with various fields, becoming a walking Wikipedia (at least that's what my friends say). I develop projects from pencil to digital, have a YouTube channel where I help with game development, and try to teach what programming I can. I have my faithful blacksmith for any artistic problem: Merlin_Codemancer - https://www.youtube.com/@Merlin_Codemancer.
+I'm a wizard who's been around since ancient times, combining the skills I develop for game development with various fields, becoming a walking Wikipedia (at least that's what my friends say). I develop projects from pencil to digital, have a YouTube channel where I help with game development, and try to teach what programming I can. I have my faithful blacksmith for any artistic problem: <a href="https://www.youtube.com/@Merlin_Codemancer.">Merlin_Codemancer</a>
 
 "THE TRUE MASTER WILL ALWAYS BE AN ETERNAL APPRENTICE!"
 ~ Cicero Ferreira dos Santos
@@ -90,13 +90,13 @@ Here are some fun games you can play directly from this page:
 
 ## Social Links
 <img align="left" label="portfolio" alt="Portfolio" width="30px" style="padding-right:10px;" src="https://pbs.twimg.com/media/EmuTg91WEAU6s-4.png" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/ffffff" />
-<img align="left" alt="YouTube" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/youtube/ffffff" />
-<img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/x/ffffff" />
-<img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/discord/ffffff" />
-<img align="left" alt="Substack" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/substack/ffffff" />
-<img align="left" alt="Kick" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/kick/ffffff" />
-<img align="left" alt="Newgrounds" width="30px" style="padding-right:10px;" src="https://tse3.mm.bing.net/th/id/OIP.mTj-gvhTi0oCthgAOhu5ZAHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" />
+<a href="https://github.com/MerlinTheCodemancer"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/ffffff" /></a>
+<a href="https://www.youtube.com/@Merlin_Codemancer."><img align="left" alt="YouTube" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/youtube/ffffff" /> </a>
+<a href="https://x.com/Merlin_Coder"><img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/x/ffffff" />
+<a href="https://discord.gg/xY4DfwKKJk"><img align="left" alt="Discord" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/discord/ffffff" />
+<a href="https://substack.com/@merlinthecodemancer"><img align="left" alt="Substack" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/substack/ffffff" />
+<a href="https://kick.com/merlin-thecodemancer"><img align="left" alt="Kick" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/kick/ffffff" />
+<a href="https://merlinthecodemancer.newgrounds.com/"><img align="left" alt="Newgrounds" width="30px" style="padding-right:10px;" src="https://tse3.mm.bing.net/th/id/OIP.mTj-gvhTi0oCthgAOhu5ZAHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" />
 <br />
 
 

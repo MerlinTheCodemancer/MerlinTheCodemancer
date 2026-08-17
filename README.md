@@ -5,7 +5,7 @@
 
 **`Game Developer / Fullstack Dev / Ai Enthusiast `**
 
-I'm a wizard who's been around since ancient times, combining the skills I develop for game development with various fields, becoming a walking Wikipedia (at least that's what my friends say). I develop projects from pencil to digital, have a YouTube channel where I help with game development, and try to teach what programming I can. I have my faithful blacksmith for any artistic problem: ![Merlin_Codemancer](https://www.youtube.com/@Merlin_Codemancer).
+I'm a wizard who's been around since ancient times, combining the skills I develop for game development with various fields, becoming a walking Wikipedia (at least that's what my friends say). I develop projects from pencil to digital, have a YouTube channel where I help with game development, and try to teach what programming I can. I have my faithful blacksmith for any artistic problem: Merlin_Codemancer - https://www.youtube.com/@Merlin_Codemancer.
 
 "THE TRUE MASTER WILL ALWAYS BE AN ETERNAL APPRENTICE!"
 ~ Cicero Ferreira dos Santos

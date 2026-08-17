@@ -89,7 +89,7 @@ Here are some fun games you can play directly from this page:
 ---
 
 ## Social Links
-<img align="left" label="portfolio" alt="Portfolio" width="30px" style="padding-right:10px;" src="https://static.wikia.nocookie.net/nier/images/5/5f/882033E5-69F6-4CE2-BC77-006FE6C8606F.png/revision/latest?cb=20190102010917" />
+<img align="left" label="portfolio" alt="Portfolio" width="30px" style="padding-right:10px;" src="https://pbs.twimg.com/media/EmuTg91WEAU6s-4.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/ffffff" />
 <img align="left" alt="YouTube" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/youtube/ffffff" />
 <img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/x/ffffff" />

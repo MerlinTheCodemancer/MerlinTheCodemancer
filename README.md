@@ -26,6 +26,7 @@ So feel free to check out my profile.
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/typescript/ffffff" />
 <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/nextdotjs/ffffff" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/python/ffffff" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://vuedotjs/ffffff" />
 <br />
 
 ---
